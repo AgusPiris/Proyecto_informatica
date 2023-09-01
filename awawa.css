@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(0,1,1);
+  }  
+  
+  #sexo {
+    color: Green;
+    position:relative;
+    left:305px;
+  }
+  
+  #vs {
+    color: White;
+    position:relative;
+    left:320px;
+  }
+    
+      
